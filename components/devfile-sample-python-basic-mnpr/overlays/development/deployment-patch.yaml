@@ -11,7 +11,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/mkosiarc-tenant/devfile-sample-python-basic/devfile-sample-python-basic-mnpr@sha256:b0a8839caa0017455ca4be6da6a154bb4cc5fe35ba5ea1ea689bbe5693d2df38
+      - image: quay.io/redhat-user-workloads-stage/mkosiarc-tenant/devfile-sample-python-basic/devfile-sample-python-basic-mnpr@sha256:432229e7ab0dbc4dfe20cdb50407647a6e12627cf3bbece76b33c48284281f5e
         name: my-python
         resources: {}
 status: {}
