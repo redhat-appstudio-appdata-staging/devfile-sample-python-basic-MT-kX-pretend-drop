@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: devfile-sample-python-basic-mnpr
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/mkosiarc-tenant/devfile-sample-python-basic/devfile-sample-python-basic-mnpr@sha256:c95f85c8e09c68296dd7815e71c7645ca6dafb200d86e57a259968c9ceb8473c
+      - image: quay.io/redhat-user-workloads-stage/mkosiarc-tenant/devfile-sample-python-basic/devfile-sample-python-basic-mnpr@sha256:432229e7ab0dbc4dfe20cdb50407647a6e12627cf3bbece76b33c48284281f5e
         name: my-python
         ports:
         - containerPort: 8081
